@@ -12,7 +12,7 @@ while(i<n)
   i++;
 }
 avr=(float)sum/n;
-printf("\n Sum:%d", sum);
-printf("\n Avg:%.2f", avr);
+printf("\n Sum: %d", sum);
+printf("\n Avg: %.2f", avr);
 return 0;
 }
